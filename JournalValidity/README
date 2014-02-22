@@ -1,0 +1,5 @@
+The part of code for Transport system in Saint-Petersburg project of CSBI ITS.
+It's implementation of journal with valid date ranges for routes.
+Route contains different variants of the route.
+Route variant is either of route cards with map and some service data.
+That is you can look at the journal and find out about actives route variants in any time.
